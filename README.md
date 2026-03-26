@@ -24,9 +24,12 @@ A partir dessa investigação, busca-se identificar padrões de uso, diferenças
 
 # Materiais
 📄 Análise completa (RPub):
-[link](https://rpubs.com/Palloma-Alves/1413988)
+[link](https://rpubs.com/Palloma-Alves/1414124)
 
-📂 Base de dados e arquivos do projeto:
+💽 Base de dados:
+[link](https://www.kaggle.com/datasets/pallomaalves/cyclistic-bike-share-jan-to-dec-2025)
+
+📂 Arquivos do projeto:
 [link](https://drive.google.com/drive/u/1/folders/1J2LvcZ0FVl_oF0UZv-kNkwO2fb68uNfM)
 
 🌐 Portfólio completo:
