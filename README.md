@@ -1,4 +1,4 @@
-# Cyclistic Bike Share — Análise Exploratória de Dados
+# Cyclistic Bike Share - Google Data Analytics Certificate Capstone
 
 Este projeto apresenta uma análise exploratória dos dados do sistema de compartilhamento de bicicletas Cyclistic, desenvolvida como trabalho final do curso Google Data Analytics Professional Certificate.
 
